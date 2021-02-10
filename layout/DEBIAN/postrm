@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ "$1" = remove ]; then
+  dpkg-divert --divert /Applications/ReProvision.app/apple-ios.pem.orig --package net.cadoth.reprovisionfix --rename --remove /Applications/ReProvision.app/apple-ios.pem
+fi

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ "$1" = install ]; then
+  dpkg-divert --divert /Applications/ReProvision.app/apple-ios.pem.orig --package net.cadoth.reprovisionfix --rename --add /Applications/ReProvision.app/apple-ios.pem
+fi
