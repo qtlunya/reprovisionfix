@@ -1,8 +1,9 @@
 Package: net.cadoth.reprovisionfix
 Name: ReProvisionFix
 Depends: com.matchstic.reprovision
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Description: Fix apps signed with ReProvision after January 28, 2021 crashing in jailed state
+Depiction: https://repo.cadoth.net/depictions/net.cadoth.reprovisionfix
 Maintainer: nyuszika7h <nyuszika7h@gmail.com>
 Section: System
