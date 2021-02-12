@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chmod 644 /Applications/ReProvision.app/apple-ios.pem
+chown mobile:staff /Applications/ReProvision.app/apple-ios.pem
