@@ -4,6 +4,8 @@ Depends: com.matchstic.reprovision
 Version: 0.1.1
 Architecture: all
 Description: Fix apps signed with ReProvision after January 28, 2021 crashing in jailed state
-Depiction: https://repo.cadoth.net/depictions/net.cadoth.reprovisionfix
+Depiction: https://repo.cadoth.net/depictions/net.cadoth.reprovisionfix.html
+SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.reprovisionfix.json
 Maintainer: nyuszika7h <nyuszika7h@gmail.com>
+Author: nyuszika7h <nyuszika7h@gmail.com>
 Section: System
